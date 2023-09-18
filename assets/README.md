@@ -9,4 +9,6 @@ Checked link functionality.
 
 Code provided as starter code for challenge.
 
+https://justdesmarais.github.io/SEO-Homepage/
+
 ![Screenshot](<SEO Homepage.png>)
