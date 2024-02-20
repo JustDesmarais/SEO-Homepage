@@ -11,4 +11,6 @@ Code provided as starter code for challenge.
 
 https://justdesmarais.github.io/SEO-Homepage/
 
-![Screenshot](<SEO Homepage.png>)
+## Screenshot
+
+![Screenshot](./assets/screenshot/Screenshot%20(37).png)
